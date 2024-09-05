@@ -5,4 +5,4 @@ This capstone project is part of the Google Advanced Data Analytics certificate 
 You can find in this repository:
 
 1. Summary Report.[PDF presentation]
-2. Detailed analysis in Python. [Python]
+2. Detailed analysis in Python. [Python]('code/Employee_Attrition_Prediction.ipynb)
