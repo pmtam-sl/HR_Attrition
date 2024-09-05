@@ -1,0 +1,4 @@
+- source: Employee_Attrition_Prediction.ipynb
+  quarto-pub:
+    - id: 9fc5cac9-a716-4881-9a81-95161d1baf5c
+      url: 'https://pmtam.quarto.pub/employee-attrition-prediction'
