@@ -91,7 +91,13 @@ target/
 .ipynb_checkpoints
 
 # HTML generated files
-_files/
+*_files
+
+# Quarto public
+_publish.yml
+
+# Git
+.gitignore
 
 # IPython
 profile_default/
